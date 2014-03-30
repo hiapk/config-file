@@ -12,3 +12,4 @@ eix |grep '\[I\]' >>/eselect.log
 git clone git://github.com/rapid7/metasploit-framework
 
 steghide
+wget -r -p -np -k -c http://
