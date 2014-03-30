@@ -93,6 +93,6 @@ dev-libs/efl X
 x11-terms/rxvt-unicode 256-color alt-font-width xft -vanilla
 dev-libs/nss utils
 #================wine=============================
-#app-emulation/wine ssl capi lcms fontconfig cups xcomposite -udisks
+#app-emulation/wine samba ssl capi lcms fontconfig cups xcomposite -udisks
 app-emulation/wine fontconfig gecko gstreamer jpeg mp3 png truetype alsa -oss X nls opengl xcomposite udisks -custom-cflags -test threads win32
 
