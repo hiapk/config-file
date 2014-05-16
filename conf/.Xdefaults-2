@@ -59,3 +59,6 @@ URxvt.tabbedex.tab-bg:    0
 URxvt.tabbedex.autohide:  yes
 URxvt.tabbedex.new-button:  no
 
+!Font
+URxvt.font:xft:WenQuanYi Micro Hei Mono:size=11:style=Regular:antialias=true,xft:WenQuanYi Mircro Hei Mono:size=10:style=Regular:antialias=true
+URxvt.boldfont:xft:WenQuanYi Micro Hei Mono:size=11:style=Bold:antialias=true,xft:WenQuanYi Mircro Hei Mono:size=10:style=Bold:antialias=true
